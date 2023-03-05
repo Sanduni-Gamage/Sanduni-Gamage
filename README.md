@@ -1,6 +1,6 @@
 [![MasterHead](https://connect.ignatiuz.com/hs-fs/hubfs/AI%20and%20Deep%20Learning.gif?width=1500&name=AI%20and%20Deep%20Learning.gif)](https://Sanduni-Gamage.io)
 <h1 align="center">Hi 👋, I'm Sanduni Gamage</h1>
-<h3 align="center">Developer | AI - ML Enthusiast</h3>
+<h3 align="center">Software Developer | AI - ML Enthusiast</h3>
 
 <img align="right" alt="Coding" width="400" src="/assets/sg.gif">
 
