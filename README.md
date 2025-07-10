@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Machine Learning | Deep Learning**
 
-- 💬 Ask me about **C# |.NET|React |Machine Learning |LLMs **
+- 💬 Ask me about **C# |.NET|React |Machine Learning |LLMs**
 
 - ⚡ Fun fact **😺❤**
 
